@@ -1,0 +1,4 @@
+Based on the current page content and remaining steps,
+decide the next action.
+If blocked, suggest an alternative.
+Return a single action.
